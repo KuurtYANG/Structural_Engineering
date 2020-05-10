@@ -1,5 +1,5 @@
 """
-function "eccs" applys the ECCS method to calculate the yield load
+function "eccs" applies the ECCS method to calculate the yield load
 """
 import numpy as np
 import pandas as pd
